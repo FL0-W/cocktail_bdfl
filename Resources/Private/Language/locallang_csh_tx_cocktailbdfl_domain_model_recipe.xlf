@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-01-14T16:58:30Z" product-name="cocktail_bdfl">
+		<header/>
+		<body>
+			<trans-unit id="name.description">
+				<source>Nom</source>
+			</trans-unit>
+			<trans-unit id="photos.description">
+				<source>Photos</source>
+			</trans-unit>
+			<trans-unit id="people_number.description">
+				<source>Nombre de personnes</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="difficulty.description">
+				<source>difficulty</source>
+			</trans-unit>
+			<trans-unit id="preparation_time.description">
+				<source>preparationTime</source>
+			</trans-unit>
+			<trans-unit id="tags.description">
+				<source>Tags</source>
+			</trans-unit>
+			<trans-unit id="steps.description">
+				<source>Etapes</source>
+			</trans-unit>
+			<trans-unit id="reviews.description">
+				<source>reviews</source>
+			</trans-unit>
+			<trans-unit id="cocktail.description">
+				<source>Cocktail</source>
+			</trans-unit>
+			<trans-unit id="ustensiles.description">
+				<source>ustensiles</source>
+			</trans-unit>
+			<trans-unit id="quantities.description">
+				<source>Quantités</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

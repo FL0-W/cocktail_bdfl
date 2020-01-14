@@ -1,0 +1,40 @@
+{
+    "name": "bdfl/cocktail-bdfl",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [
+        {
+            "name": "Florentin BALFOUONG",
+            "role": "Developer"
+        },
+        {
+            "name": "Daphn\u00e9 AUBERT",
+            "role": "Developer"
+        },
+        {
+            "name": "Lucas ROSSIGNOL",
+            "role": "Developer"
+        },
+        {
+            "name": "Benjamin ROOSEBROUCK",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bdfl\\CocktailBdfl\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bdfl\\CocktailBdfl\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "cocktail_bdfl": "self.version",
+        "typo3-ter/cocktail-bdfl": "self.version"
+    }
+}

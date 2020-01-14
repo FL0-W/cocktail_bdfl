@@ -1,0 +1,40 @@
+<T3DataStructure>
+	<sheets>
+		<sDEF>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>Function</sheetTitle>
+				</TCEforms>
+				<type>array</type>
+				<el>
+					<switchableControllerActions>
+						<TCEforms>
+							<label>Select function</label>
+							<config>
+								<type>select</type>
+								<items>
+									<numIndex index="0">
+										<numIndex index="0">Recettes</numIndex>
+										<numIndex index="1">Recipe -&gt; list;Recipe-&gt;show;Recipe-&gt;search</numIndex>
+									</numIndex>
+									<numIndex index="1">
+										<numIndex index="0">Noter une recette</numIndex>
+										<numIndex index="1">Review -&gt;new;Review-&gt;create</numIndex>
+									</numIndex>
+									<numIndex index="2">
+										<numIndex index="0">Recettes du mois</numIndex>
+										<numIndex index="1">Recipe -&gt;highlight</numIndex>
+									</numIndex>
+									<numIndex index="3">
+										<numIndex index="0">Recette random</numIndex>
+										<numIndex index="1">Recipe -&gt;random</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</switchableControllerActions>
+				</el>
+			</ROOT>
+		</sDEF>
+	</sheets>
+</T3DataStructure>

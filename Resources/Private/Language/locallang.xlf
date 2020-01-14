@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-01-14T16:58:30Z" product-name="cocktail_bdfl">
+		<header/>
+		<body>
+			<trans-unit id="tx_cocktailbdfl_domain_model_tag">
+				<source>Tag</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_tag.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe">
+				<source>Recipe</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.photos">
+				<source>Photos</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.people_number">
+				<source>People Number</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.difficulty">
+				<source>Difficulty</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.preparation_time">
+				<source>Preparation Time</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.tags">
+				<source>Tags</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.steps">
+				<source>Steps</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.reviews">
+				<source>Reviews</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.cocktail">
+				<source>Cocktail</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.ustensiles">
+				<source>Ustensiles</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_recipe.quantities">
+				<source>Quantities</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_step">
+				<source>Step</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_step.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_step.photo">
+				<source>Photo</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_step.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_review">
+				<source>Review</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_review.rate">
+				<source>Rate</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_review.comment">
+				<source>Comment</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_cocktail">
+				<source>Cocktail</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_cocktail.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_cocktail.alcoholized">
+				<source>Alcoholized</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_cocktail.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_cocktail.photos">
+				<source>Photos</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_ustensile">
+				<source>Ustensile</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_ustensile.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_ustensile.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_quantity">
+				<source>Quantity</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_quantity.value">
+				<source>Value</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_quantity.unit">
+				<source>Unit</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_quantity.ingredient">
+				<source>Ingredient</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_ingredient">
+				<source>Ingredient</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_ingredient.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_ingredient.alcoholized">
+				<source>Alcoholized</source>
+			</trans-unit>
+			<trans-unit id="tx_cocktailbdfl_domain_model_ingredient.allergen_free">
+				<source>Allergen Free</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
